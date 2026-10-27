@@ -1,0 +1,15 @@
+.head{
+    text-align: center;
+    background-color: rgb(73, 73, 226);
+    padding: 10px;
+}
+#inicio{
+    background-color: rgb(46, 117, 197);
+    margin: 8;
+    
+}
+#mountain{
+  display: block;
+  width: 100%;
+  height: 130%;
+}
